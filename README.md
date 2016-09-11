@@ -7,7 +7,7 @@ In testing, the NAVI detected obstacles, estimated their distances, and provided
 
 The software for the NAVI (`NAVI.ino`) is what is mainly included in this Repository. The NAVI was controlled by an [Arduino Micro] (https://www.arduino.cc/en/Main/ArduinoBoardMicro), and hence the code is specifically built to run on one.
 
-The NAVI was entered as a project to several science fairs. It won 1st place at the Pennsylvania Junior Academy of Science, 4th place at the Pittsburgh Regional Science and Engineering Fair, and accumulated a total of seven sponsor awards.
+The NAVI was entered as a project to several science fairs. It won 1st place at the [Pennsylvania Junior Academy of Science] (http://www.pjas.net/), 4th place at the [Pittsburgh Regional Science and Engineering Fair] (https://www.scitechfestival.org/mainsf.asp), and accumulated a total of seven sponsor awards.
 
 Below is an image of the NAVI. Its components are housed in a 3D printed enclosure, with the PING))) in the front, on/off and mode switch buttons on the top, speaker and headphone jack in the back, and vibration motor on the bottom:
 
